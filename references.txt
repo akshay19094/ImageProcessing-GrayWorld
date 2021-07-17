@@ -3,7 +3,6 @@ https://ieeexplore.ieee.org/document/8058463
 
 Gray algorithm for white balancing
 Matlab module: https://in.mathworks.com/help/images/ref/illumgray.html
-Algorithm: https://www.codeproject.com/Articles/653355/Color-Constancy-Gray-World-Algorithm
 
 Underwater image dataset
 https://li-chongyi.github.io/proj_benchmark.html
